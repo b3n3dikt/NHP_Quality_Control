@@ -1,0 +1,3 @@
+# Cortical_Thickness_QC
+To View Executive Summary files, download a subject, and open the `executive_summary_sub-xx_ses-xx.html`
+file. This will load a BrainSprite Viewer of the T1w and T2w image, as well as the white and gray matter delineations that were used to project into surface space and calculate the cortical thickness measures. While the BrainSprite Images appear to be slightly squished in the executive summaries this is only a formatting issue in BrainSprite which is not actually reflected in the actual data. Additional images show the Atlas in T1 space. As well the the T1 in Atlas space to show how well Native to Template registration worked.
